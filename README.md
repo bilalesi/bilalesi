@@ -8,8 +8,8 @@ With a solid foundation in software engineering, I specialize in crafting and le
 
 *   🌍  I'm based in Geneva, Switzerland
 *   ✉️  You can contact me at [b\_meddah@esi.dz](mailto:b_meddah@esi.dz)
-*   🚀  I'm currently working on [Blue Brain Project/EPFL](http://openbrainplatform.org/)
-*   🧠  I'm learning Golang, Qwik
+*   🚀  I'm currently working on [Open Brain Institute](http://www.openbraininstitute.org/)
+*   🧠  I'm learning Golang
 *   🤝  I'm open to collaborating on Any opensource project uses Typescipt, Golang, Python
   ### Skills 
 <p align="left">
