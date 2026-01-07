@@ -6,10 +6,8 @@ Senior Software Engineer
 
 With a solid foundation in software engineering, I specialize in crafting and leading the development of innovative software solutions that propel organizations forward in the digital landscape. I am proficient with advanced technology stacks, including JavaScript, TypeScript, React, Next.js, Node.js, Python, Docker, and Kubernetes, which I utilize to develop responsive and high-performance applications. My knowledge extends to cloud platform services like AWS and GCP, enhancing my ability to deploy scalable solutions. I am dedicated to adopting modern development practices and architectures that streamline application delivery and enhance efficiency. My comprehensive expertise in front-end and back-end technologies allows me to deliver innovative, user-centric solutions. At the core of my work ethic is collaboration, engaging with cross-functional teams and stakeholders to ensure technology solutions meet strategic objectives. I am committed to creating systems that are robust, scalable, and adhere to industry best practices, future-proofing them for long-term success.
 
-*   🌍  I'm based in Geneva, Switzerland
+*   🌍  I'm based in Switzerland
 *   ✉️  You can contact me at [b\_meddah@esi.dz](mailto:b_meddah@esi.dz)
-*   🚀  I'm currently working on [Open Brain Institute](http://www.openbraininstitute.org/)
-*   🧠  I'm learning Golang
 *   🤝  I'm open to collaborating on Any opensource project uses Typescipt, Golang, Python
   ### Skills 
 <p align="left">
